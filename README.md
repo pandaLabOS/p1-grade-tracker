@@ -1,48 +1,50 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
 <h1 align="center">
-   Gatsby Bootstrap 5 starter
+   Simple Grade Tracker
 </h1>
 
 
-Minimal bootstrap 5 and Gatsby configuration with SCSS support. 
+*Built using the Gatsby starter with Bootstrap 5*  
+  
+This project is a simple grade tracker made using Gatsby, Bootstrap 5.3, react-use, and jquery as the first term project of Assumption University's CSX4107 Web Application Development course.  
 
-Demo here : https://gatsbystarterbootstrap5.gatsbyjs.io/
+-----------
+    
+Keep track of all the courses you have completed, and view each semester's GPA as well as your cumulative GPA, all on one screen.
 
-## 📋 Available options
+-----------
+Author: Ornwara S.     
+Starter here : https://gatsbystarterbootstrap5.gatsbyjs.io/
 
-- You can theme bootstrap via `src/components/layout.scss`
+-----------
+## ✨ Available Features
 
-## 🚀 How to install
+- Add new grade records by semester
+- View completed courses and grades
+- View previous semester's GPAs
+- View your cumulative GPA
 
-Use the Gatsby CLI to create a new site. 
+-----------
 
-```shell
-# create a new Gatsby site using the default starter
-gatsby new gatsby-starter-bootstrap-5 https://github.com/r-ichard/gatsby-starter-bootstrap-5
-```
+## 💡 How to use the tracker
+
+1. Click "Add new semester"        
+![Add new semester button](assets/images/1_addNewSemesterButton.png)
+2. Add the semester's details      
+![Add new semester details](assets/images/2_semesterDetails.png)
+3. Select your major      
+![Select Major](assets/images/3_selectMajor.png)
+4. Select your subjects from the dropdown field       
+![Select subjects](assets/images/4_selectSubjects.png)        
+![Filled fields](assets/images/5_fillDropdownFields.png)        
+Click "Add subjects" then click "OK" to close the form
+5. View your previous semester's GPAs using the horizontal window      
+![Previous Semester GPAs](assets/images/6_horizontalScroll.png)
+6. Use the table to see all your completed courses and grades       
+![Subjects table](assets/images/7_completdSubjectsTable.png)
 
 
-## ✏️ How to develop locally
+-----------
 
-1.  Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd gatsby-starter-bootstrap-5/
-    gatsby develop
-    ```
-
-1.  **Open the source code and start editing!**
-
-    Your site is now running at `http://localhost:8000`!
-
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
-
-    Open the `gatsby-starter-bootstrap-5` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-
-## 💡 How to contribute 
-
-Any feedback is welcome and helpful.
+## 💡 Future updates
+- A feature that previously worked (but is not glitchy for no obvioius reason) is the grade update. Hopefully, this feature may become available after the final exam is completed.
+- View separate tables for each semester

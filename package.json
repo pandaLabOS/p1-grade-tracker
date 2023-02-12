@@ -1,12 +1,13 @@
 {
-  "name": "@r-ichard/gatsby-starter-bootstrap-5",
+  "name": "@pandaLabOS/simple-grade-tracker",
   "private": false,
-  "description": "A simple starter to get up and developing quickly with Gatsby 5 and Bootstrap 5",
-  "version": "2.0.2",
-  "author": "Richard Raduly <richard@raduly.fr>",
+  "description": "A simple grade tracker built using Gatsby 5 and Bootstrap 5",
+  "version": "3.0.0",
+  "author": "Ornwara Sangthongnirundorn",
   "dependencies": {
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.2",
+    "browser-monads": "^1.0.0",
     "gatsby": "^5.1.0",
     "gatsby-plugin-gatsby-cloud": "^5.1.0",
     "gatsby-plugin-image": "^3.1.0",
@@ -22,6 +23,7 @@
     "sass": "1.49.11"
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "prettier": "2.5.1"
   },
   "keywords": [
@@ -38,7 +40,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "repository": {
     "type": "git",

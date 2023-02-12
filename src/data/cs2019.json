@@ -1,0 +1,269 @@
+{
+  "curriculum": {
+    "name": "Computer Science",
+    "subjects": [
+      {
+        "groupName": "Language Courses",
+        "subjects": [
+          {
+            "code": "BG 1001",
+            "name": "English I"
+          },
+          {
+            "code": "BG 1002",
+            "name": "English II"
+          },
+          {
+            "code": "BG 2000",
+            "name": "English III"
+          },
+          {
+            "code": "BG 2001",
+            "name": "English IV"
+          }
+        ]
+      },
+      {
+        "groupName": "Humanities Courses",
+        "subjects": [
+          {
+            "code": "BG 1400",
+            "name": "Business Law I"
+          }
+        ]
+      },
+      {
+        "groupName": "Social Science Courses",
+        "subjects": [
+          {
+            "code": "GE 2202",
+            "name": "Ethics"
+          },
+          {
+            "code": "MGT 1101",
+            "name": "Introduction to Business"
+          }
+        ]
+      },
+      {
+        "groupName": "Science and Mathemetics Courses",
+        "subjects": [
+          {
+            "code": "ACT 1601",
+            "name": "Fundamentals of Financial Accounting"
+          },
+          {
+            "code": "CSX 1001",
+            "name": "Basic Mathematics and Statistics"
+          }
+        ]
+      },
+      {
+        "groupName": "General Education Courses",
+        "subjects": [
+          {
+            "code": "GE 1101",
+            "name": "Thai Civilization"
+          },
+          {
+            "code": "GE 1102",
+            "name": "Introduction to Philosophy"
+          },
+          {
+            "code": "GE 2101",
+            "name": "World Civilization"
+          },
+          {
+            "code": "GE 2103",
+            "name": "Art of Reasoning"
+          },
+          {
+            "code": "GE 2104",
+            "name": "Thai Buddhism"
+          },
+          {
+            "code": "GE 2105",
+            "name": "Introduction to World Religion"
+          },
+          {
+            "code": "GE 2106",
+            "name": "Logical Thinking and Application"
+          },
+          {
+            "code": "GE 2107",
+            "name": "Applied Philosophy in Social Sciences and Humanities"
+          },
+          {
+            "code": "MGT 2404",
+            "name": "Managerial Psychology"
+          },
+          {
+            "code": "GE 1207",
+            "name": "Fundamental Psychology"
+          },
+          {
+            "code": "GE 1203",
+            "name": "Society, Politics and Economics"
+          },
+          {
+            "code": "GE 1205",
+            "name": "ASEAN Ways"
+          },
+          {
+            "code": "GE 1206",
+            "name": "Philosophy of Sufficiency Economy"
+          },
+          {
+            "code": "GE 2203",
+            "name": "Art of Living"
+          },
+          {
+            "code": "GE 2205",
+            "name": "Communication and Multicultural society"
+          },
+          {
+            "code": "GE 2206",
+            "name": "Personality Development"
+          },
+          {
+            "code": "GE 2207",
+            "name": "Sport, Health and Wellness Development"
+          },
+          {
+            "code": "GE 2208",
+            "name": "Thai Politics and Government"
+          },
+          {
+            "code": "ECO 2200",
+            "name": "Introduction to Economics"
+          },
+          {
+            "code": "GE 1301",
+            "name": "Environmental Science"
+          },
+          {
+            "code": "GE 2301",
+            "name": "Lifestyles in Dynamic World"
+          },
+          {
+            "code": "GE 2302",
+            "name": "Climate Change and Human Life"
+          },
+          {
+            "code": "GE 2303",
+            "name": "Building Brilliant Brain"
+          },
+          {
+            "code": "MA 1200",
+            "name": "Mathematics for Business"
+          },
+          {
+            "code": "GE 1403",
+            "name": "Communication in Thai"
+          },
+          {
+            "code": "GE 1405",
+            "name": "Thai Language and Culture"
+          },
+          {
+            "code": "GE 1406",
+            "name": "Burmese Language"
+          },
+          {
+            "code": "GE 1407",
+            "name": "Russian Language"
+          },
+          {
+            "code": "GE 3401",
+            "name": "Public Speaking in Thai"
+          }
+        ]
+      },
+      {
+        "groupName": "Specialized Courses",
+        "subjects": [
+          {
+            "code": "CSX 2001",
+            "name": "Introduction to Information Technology"
+          },
+          {
+            "code": "CSX 2002",
+            "name": "Calculus"
+          },
+          {
+            "code": "CSX 2003",
+            "name": "Principles of Statistics"
+          },
+          {
+            "code": "CSX 2004",
+            "name": "UI/UX Design and Prototyping"
+          },
+          {
+            "code": "CSX 2005",
+            "name": "Design Thinking"
+          },
+          {
+            "code": "CSX 2006",
+            "name": "Mathematics and Statistics for Data Science"
+          },
+          {
+            "code": "CSX 2007",
+            "name": "Data Science"
+          },
+          {
+            "code": "CSX 2008",
+            "name": "Mathematics Foundation for Computer Science"
+          },
+          {
+            "code": "CSX 2009",
+            "name": "Cloud Computing"
+          },
+          {
+            "code": "CSX 3001",
+            "name": "Fundamentals of Computer Programming"
+          },
+          {
+            "code": "CSX 3002",
+            "name": "Object-Oriented Concepts and Programming"
+          },
+          {
+            "code": "CSX 3003",
+            "name": "Data Structure and Algorithms"
+          },
+          {
+            "code": "CSX 3004",
+            "name": "Programming Languages"
+          },
+          {
+            "code": "CSX 3005",
+            "name": "Computer Networks"
+          },
+          {
+            "code": "CSX 3006",
+            "name": "Database Systems"
+          },
+          {
+            "code": "CSX 3007",
+            "name": "Computer Architecture"
+          },
+          {
+            "code": "CSX 3008",
+            "name": "Operating Systems"
+          },
+          {
+            "code": "CSX 3009",
+            "name": "Algorithm Design"
+          },
+          {
+            "code": "CSX 3010",
+            "name": "Senior Project I"
+          },
+          {
+            "code": "CSX 3011",
+            "name": "Senior Project II"
+          }
+        ]
+      }
+    ]
+  }
+}
